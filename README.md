@@ -10,7 +10,8 @@
 The purpose of this project is to pass the Udacity course "Programing for Data Science with Python".
 The task of this given assignment is as below:
     - Upload the python analytical script for bikeshare data and the data file
-    - Update readme
+    - document a friendly readme
+    - refactor the script for efficiency and readability
     - Use git and github for version control 
 
 ### Files used
