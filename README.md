@@ -7,11 +7,15 @@
 "Bikeshare" project
 
 ### Description
-Describe what your project is about and what it does
+The purpose of this project is to pass the Udacity course "Programing for Data Science with Python".
+The task of this given assignment is as below:
+    - Upload the python analytical script for bikeshare data and the data file
+    - Update readme
+    - Use git and github for version control 
 
 ### Files used
-Include the files used
+    - "Bikeshare_exam"
+    - "README"
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Thanks very much for [Markdown Documents](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) provided by Udacity during the course! Very helpful!
