@@ -17,6 +17,7 @@ The task of this given assignment is as below:
 ### Files used
     - "Bikeshare_exam"
     - "README"
+    - datafile in .gitignore (ignored in version control)
 
 ### Credits
 Thanks very much for [Markdown Documents](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) provided by Udacity during the course! Very helpful!
